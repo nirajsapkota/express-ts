@@ -1,2 +1,2 @@
-# express-ts
-Express (Typescript) Template
+# Express (Typescript) Template
+
